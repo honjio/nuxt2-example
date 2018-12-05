@@ -27,10 +27,10 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 2018/12/05
 * **command for the create**   
 ```yarn create nuxt-app <my-project>```
-* **Option on when create**
-1. Server => none
-2. UI => Bootstrap
-3. mode => spa
-4. httpReqest => axios
-5. eslint => yes
-6. prettier => yes
+* **Option on when create**  
+1. Server => none  
+2. UI => Bootstrap  
+3. mode => spa  
+4. httpReqest => axios  
+5. eslint => yes  
+6. prettier => yes  
